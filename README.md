@@ -1,3 +1,5 @@
+#v2ray_test
+
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#%40config_dooni
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%40config_dooni
